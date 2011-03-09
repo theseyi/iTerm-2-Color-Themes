@@ -167,11 +167,11 @@
 	<key>Cursor Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>0.40000000596046448</real>
+		<real>0.46043801307678223</real>
 		<key>Green Component</key>
-		<real>0.80000001192092896</real>
+		<real>0.56703799962997437</real>
 		<key>Red Component</key>
-		<real>1</real>
+		<real>0.66486245393753052</real>
 	</dict>
 	<key>Cursor Text Color</key>
 	<dict>
