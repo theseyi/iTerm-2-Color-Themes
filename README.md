@@ -20,5 +20,7 @@ The pnevma theme was reconstructed from [this](https://bbs.archlinux.org/viewtop
 ![wryan](https://github.com/juanpabloaj/iTerm-2-Color-Themes/raw/master/previews/wryan.png)  
 ###zenburn
 ![zenburn](https://github.com/juanpabloaj/iTerm-2-Color-Themes/raw/master/previews/zenburn.png)  
+###twenty
+![twenty](http://f.cl.ly/items/3F3q2m05162V013P1t0O/ss%202011-11-14_at_22.49.39.png)  
 
 Thanks to [n0tch2k](http://n0tch2k.deviantart.com/), [pkmurugan](http://pkmurugan.deviantart.com/) and [rent0n86](http://rent0n86.deviantart.com/).
