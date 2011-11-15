@@ -3,22 +3,22 @@ The pnevma theme was reconstructed from [this](https://bbs.archlinux.org/viewtop
 
 ##Screenshot
 ###arthur
-![arthur](https://github.com/juanpabloaj/iTerm-2-Color-Themes/blob/master/previews/arthur.png)  
+![arthur](https://github.com/juanpabloaj/iTerm-2-Color-Themes/raw/master/previews/arthur.png)  
 ###n0tch2k
-![n0tch2k](https://github.com/juanpabloaj/iTerm-2-Color-Themes/blob/master/previews/n0tch2k.png)  
+![n0tch2k](https://github.com/juanpabloaj/iTerm-2-Color-Themes/raw/master/previews/n0tch2k.png)  
 ###pnevma
-![pnevma](https://github.com/juanpabloaj/iTerm-2-Color-Themes/blob/master/previews/pnevma.png)  
+![pnevma](https://github.com/juanpabloaj/iTerm-2-Color-Themes/raw/master/previews/pnevma.png)  
 ###quay
-![quay](https://github.com/juanpabloaj/iTerm-2-Color-Themes/blob/master/previews/quay.png)  
+![quay](https://github.com/juanpabloaj/iTerm-2-Color-Themes/raw/master/previews/quay.png)  
 ###robina
-![robina](https://github.com/juanpabloaj/iTerm-2-Color-Themes/blob/master/previews/robina.png)  
+![robina](https://github.com/juanpabloaj/iTerm-2-Color-Themes/raw/master/previews/robina.png)  
 ###square
-![square](https://github.com/juanpabloaj/iTerm-2-Color-Themes/blob/master/previews/square.png)  
+![square](https://github.com/juanpabloaj/iTerm-2-Color-Themes/raw/master/previews/square.png)  
 ###thayer
-![thayer](https://github.com/juanpabloaj/iTerm-2-Color-Themes/blob/master/previews/thayer.png)  
+![thayer](https://github.com/juanpabloaj/iTerm-2-Color-Themes/raw/master/previews/thayer.png)  
 ###wryan
-![wryan](https://github.com/juanpabloaj/iTerm-2-Color-Themes/blob/master/previews/wryan.png)  
+![wryan](https://github.com/juanpabloaj/iTerm-2-Color-Themes/raw/master/previews/wryan.png)  
 ###zenburn
-![zenburn](https://github.com/juanpabloaj/iTerm-2-Color-Themes/blob/master/previews/zenburn.png)  
+![zenburn](https://github.com/juanpabloaj/iTerm-2-Color-Themes/raw/master/previews/zenburn.png)  
 
 Thanks to [n0tch2k](http://n0tch2k.deviantart.com/), [pkmurugan](http://pkmurugan.deviantart.com/) and [rent0n86](http://rent0n86.deviantart.com/).
