@@ -8,8 +8,6 @@ The pnevma theme was reconstructed from [this](https://bbs.archlinux.org/viewtop
 ![n0tch2k](https://github.com/juanpabloaj/iTerm-2-Color-Themes/raw/master/previews/n0tch2k.png)  
 ###pnevma
 ![pnevma](https://github.com/juanpabloaj/iTerm-2-Color-Themes/raw/master/previews/pnevma.png)  
-###quay
-![quay](https://github.com/juanpabloaj/iTerm-2-Color-Themes/raw/master/previews/quay.png)  
 ###robina
 ![robina](https://github.com/juanpabloaj/iTerm-2-Color-Themes/raw/master/previews/robina.png)  
 ###square
