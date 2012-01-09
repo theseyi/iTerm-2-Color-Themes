@@ -2,9 +2,9 @@
 Most of the themes were converted  from [n0tch2k](http://n0tch2k.deviantart.com/)'s [.Xdefaults](http://rawtec.de/dotfiles/Xdefaults.html) by using `tools/xresources_to_iterm` (reads an `.Xresources` color scheme from *stdin* and writes an iTerm2 theme to *stdout*).
 
 ## Pointers
+- [dotshare](http://dotshare.it/category/terms/colors/)
 - [crunchbang](http://crunchbanglinux.org/forums/topic/9935/post-your-xdefaults-and-terminal-apps-colorschemes-with-screenshot/)
 - [arch](https://bbs.archlinux.org/viewtopic.php?id=51818)
-- [dotshare](http://dotshare.it/category/terms/colors/)
 
 ## Update
 I'm moved to a **non proprietary** working environment lately: this repository is frozen. Please check out my other projects.
