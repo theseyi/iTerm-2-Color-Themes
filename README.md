@@ -4,7 +4,7 @@ Most of the themes were converted  from [n0tch2k](http://n0tch2k.deviantart.com/
 ## Pointers
 - [crunchbang](http://crunchbanglinux.org/forums/topic/9935/post-your-xdefaults-and-terminal-apps-colorschemes-with-screenshot/)
 - [arch](https://bbs.archlinux.org/viewtopic.php?id=51818)
-- [dotshare](http://dotshare.it/)
+- [dotshare](http://dotshare.it/category/terms/colors/)
 
 ## Update
 I'm moved to a **non proprietary** working environment lately: this repository is frozen. Please check out my other projects.
