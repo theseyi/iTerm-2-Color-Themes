@@ -182,6 +182,7 @@
 		<key>Red Component</key>
 		<real>0.0</real>
 	</dict>
+	
 	<key>Foreground Color</key>
 	<dict>
 		<key>Blue Component</key>
